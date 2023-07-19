@@ -1,0 +1,27 @@
+.bg-dark-blue-200 {
+  background-color: #291ccb;
+}
+.bg-light-gray-100 {
+  background-color: #f9f9fa;
+}
+.bg-light-purple {
+  background-color: #ededfc;
+}
+.bg-white {
+  background-color: white;
+}
+.bg-status-open {
+  background-color: #e8fcf1;
+}
+.bg-status-filled {
+  background-color: #fff5d5;
+}
+.bg-red-100 {
+  background-color: #fee2e2;
+}
+.bg-active-pagination {
+  background-color: #ededfc;
+}
+.bg-light-gray-200 {
+  background-color: #626e8f;
+}

@@ -1,0 +1,47 @@
+.font-medium {
+  font-weight: 500;
+}
+.font-bold {
+  font-weight: 700;
+}
+.text-light-gray-200 {
+  color: #626e8f;
+}
+.text-black {
+  color: black;
+}
+.text-dark-blue-200 {
+  color: #291ccb;
+}
+.text-white {
+  color: #fff;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.text-base {
+  font-size: 1rem; /* 16px */
+  line-height: 1.5rem; /* 24px */
+}
+.text-xs {
+  font-size: 0.75rem; /* 12px */
+  line-height: 1rem; /* 16px */
+}
+.text-left {
+  text-align: left;
+}
+.text-status-sell {
+  color: #b01212;
+}
+.text-status-buy {
+  color: #00632b;
+}
+.text-green-800 {
+  color: #166534;
+}
+.text-status-filled {
+  color: #976400;
+}
+.text-active-pagination {
+  color: #1409a0;
+}

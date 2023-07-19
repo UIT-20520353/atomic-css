@@ -1,0 +1,78 @@
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+.rounded-md {
+  border-radius: 0.375rem;
+}
+.border {
+  border-width: 1px;
+}
+.border-2 {
+  border-width: 2px;
+}
+.border-gray-200 {
+  border-color: #e5e7eb;
+}
+.border-gray-300 {
+  border-color: #d1d5db;
+}
+.rounded-tr-md {
+  border-top-right-radius: 0.375rem;
+}
+.rounded-br-md {
+  border-bottom-right-radius: 0.375rem;
+}
+.rounded-br-lg {
+  border-bottom-right-radius: 0.5rem;
+}
+.rounded-bl-lg {
+  border-bottom-left-radius: 0.5rem;
+}
+.rounded-tl-md {
+  border-top-left-radius: 0.375rem;
+}
+.rounded-tl-lg {
+  border-top-left-radius: 0.5rem;
+}
+.rounded-bl-md {
+  border-bottom-left-radius: 0.375rem;
+}
+.border-r-0 {
+  border-right-width: 0;
+}
+.border-spacing-0 {
+  border-spacing: 0px 0px;
+}
+.border-separate {
+  border-collapse: separate;
+}
+.border-l {
+  border-left-width: 1px;
+}
+.border-l-2 {
+  border-left-width: 2px;
+}
+.rounded-full {
+  border-radius: 9999px;
+}
+.rounded {
+  border-radius: 0.25rem;
+}
+.border-active-pagination {
+  border-color: #291ccb;
+}
+.border-solid {
+  border-style: solid;
+}
+.border-l-0 {
+  border-left-width: 0;
+}
+.border-t-2 {
+  border-top-width: 2px;
+}
+.border-b-2 {
+  border-bottom-width: 2px;
+}
+.border-r-2 {
+  border-right-width: 2px;
+}
