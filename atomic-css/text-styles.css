@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 .font-medium {
   font-weight: 500;
 }
 .font-bold {
   font-weight: 700;
+}
+.font-semibold {
+  font-weight: 600;
 }
 .text-light-gray-200 {
   color: #626e8f;
@@ -27,8 +32,15 @@
   font-size: 0.75rem; /* 12px */
   line-height: 1rem; /* 16px */
 }
+.text-sm {
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.25rem; /* 20px */
+}
 .text-left {
   text-align: left;
+}
+.text-right {
+  text-align: right;
 }
 .text-status-sell {
   color: #b01212;
@@ -44,4 +56,10 @@
 }
 .text-active-pagination {
   color: #1409a0;
+}
+.font-inter {
+  font-family: 'Inter', sans-serif;
+}
+.text-neutral {
+  color: #5a6689;
 }

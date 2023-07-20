@@ -76,3 +76,6 @@
 .border-r-2 {
   border-right-width: 2px;
 }
+.border-inactive-pagination {
+  border-color: #e1e3e7;
+}
